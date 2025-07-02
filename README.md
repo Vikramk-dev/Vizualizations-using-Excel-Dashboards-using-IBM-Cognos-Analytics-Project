@@ -28,6 +28,14 @@ The goal is to extract meaningful business insights from raw car sales data — 
 - Column/line combination charts
 - Sentiment and recall breakdowns
 - Drill-down style interactivity (PDF export)
+- ## 🌐 Live Interactive Dashboard (IBM Cognos)
+
+You can explore the live dashboard created in IBM Cognos Analytics using the link below:
+
+👉 [Launch Interactive Dashboard](https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal%2BProject&action=view&mode=dashboard&subView=model00000197c413b6da_00000000)
+
+> 📌 *Note: You may need to sign in with an IBM Cognos account to view the dashboard.*
+
 
 ### 🔹 GitHub
 - Version control and portfolio presentation
